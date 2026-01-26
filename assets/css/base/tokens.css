@@ -2,7 +2,7 @@
     /* BRAND COLORS */
     --clr-primary: #28cb8b;
     --clr-primary-dark: #263238;
-    --clr-primary-light: #89939e;
+    --clr-primary-light: #f5f7fa;
     /* NEUTRAL / TEXT */
     --clr-dark: #263238; /* heading*/
     --clr-d-gray: #4D4D4D;
@@ -49,7 +49,7 @@
   }
   /* CONTAINER/WRAPPER */
   :root {
-    --wrapper-width: 1200px;
+    --wrapper-width: 1152px;
     --wrapper-margin: 0 auto;
   }
   

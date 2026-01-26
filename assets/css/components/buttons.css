@@ -1,0 +1,10 @@
+
+
+.btn-primary{
+    padding: 10px 20px;
+}
+.btn-primary:hover{
+    background-color: var(--clr-primary);
+    color: var(--clr-primary-light);
+    border-radius: 6px;
+}
