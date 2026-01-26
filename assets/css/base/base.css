@@ -108,3 +108,8 @@ button {
   background-color: var(--clr-primary-light);
   max-width: 100%;
 }
+
+.green-font{
+  color: var(--clr-primary);
+}
+

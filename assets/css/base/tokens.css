@@ -13,7 +13,7 @@
 }
 :root{
     /* headings */
-    --fs-h1: 4rem;      /* 64px */
+    --fs-h1: 3.75rem;      /* 64px */
     --fs-h2: 2.25rem;      /* 36px */
     --fs-h3: 1.75rem;      /* 28px */
     --fs-h4: 1.25rem;      /* 20px */
@@ -43,6 +43,7 @@
     --space-4: 1.5rem;   /* 24px */
     --space-5: 2rem;     /* 32px */
     --space-6: 3rem;     /* 48px */
+    --space-7: 4rem;     /* 94px */
   
     --space-section: 6rem; /* 96px */
     --space-hero: 9rem;    /* 144px */
