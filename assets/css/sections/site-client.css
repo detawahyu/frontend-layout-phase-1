@@ -1,0 +1,8 @@
+
+.clients-header h2{
+    margin-bottom: var(--space-2);
+}
+.logos-list{
+    display: flex;
+    justify-content: space-between;
+}

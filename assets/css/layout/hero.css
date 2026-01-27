@@ -2,7 +2,7 @@
 
 
 .hero{
-    padding: 96px 0;
+    padding: 96px 0 var( --space-3) 0;
 }
 .hero-content{
     display: flex;
