@@ -1,0 +1,6 @@
+
+
+.split{
+    display: flex;
+    padding: var(--space-5) 0;
+}
