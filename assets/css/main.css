@@ -27,3 +27,6 @@
 
 @import url(layout/testi.css);
 @import url(sections/site-testi.css);
+
+@import url(layout/blog.css);
+@import url(sections/site-blog.css);
