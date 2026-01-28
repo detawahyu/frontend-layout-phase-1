@@ -6,6 +6,7 @@
     /* NEUTRAL / TEXT */
     --clr-dark: #263238; /* heading*/
     --clr-d-gray: #4D4D4D;
+    --clr-gray: 717171
 }
     /* TYPOGRAPHY */
 :root{
@@ -22,6 +23,8 @@
     --fs-body: 1rem;        /* 16px */
     --fs-body-sm: 0.875rem; /* 14px */
     --fs-caption: 0.75rem;  /* 12px */
+    /* footer */
+    --fs-link-footer:0.60rem
 }
 :root{
     /* line height */

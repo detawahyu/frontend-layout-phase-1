@@ -18,9 +18,23 @@
     padding-top: var(--space-3);
 }
 .blog-article{
-    border: 1px solid black;
+    border-radius: 5px;
 }
 .blog-img{
     height: auto;
-    border: 1px solid red;
+    border-radius: 5px;
+}
+
+.blog-label{
+    max-width: 85%;
+    background-color: var(--clr-primary-light);
+    padding: var(--space-3);
+    text-align: center;
+    margin: -5rem auto 0 auto;
+    border-radius: 5px;
+    position: relative;
+    box-shadow: -1px 10px 10px rgba(0, 0, 0, 0.15);
+}
+.blog-label h4{
+    margin-bottom: var(--space-2);
 }

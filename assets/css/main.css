@@ -30,3 +30,9 @@
 
 @import url(layout/blog.css);
 @import url(sections/site-blog.css);
+
+@import url(layout/cta.css);
+@import url(sections/site-cta.css);
+
+@import url(layout/footer.css);
+@import url(sections/site-footer.css);
