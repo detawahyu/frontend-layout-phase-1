@@ -1,0 +1,25 @@
+.metrics-header{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.metrics-header .green-font{
+    display: block;
+}
+.metrics-list{
+    flex: 1;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-5) var(--space-3);
+}
+.metrics-item{
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+}
+.metrics-icon{
+    width: var(--space-6);
+    height: auto;
+}

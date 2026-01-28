@@ -21,3 +21,9 @@
 
 @import url(layout/splits.css);
 @import url(sections/site-splits.css);
+
+@import url(layout/metrics.css);
+@import url(sections/site-metrics.css);
+
+@import url(layout/testi.css);
+@import url(sections/site-testi.css);
