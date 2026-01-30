@@ -1,6 +1,0 @@
-.testi{
-    display: flex;
-    justify-content: space-between;
-    gap: var(--space-8);
-    padding: var(--space-6) 0;
-}

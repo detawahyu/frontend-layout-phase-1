@@ -1,3 +1,8 @@
+.metrics{
+    display: flex;
+    gap: var(--space-5);
+    padding: var(--space-7) 0;
+}
 .metrics-header{
     flex: 1;
     display: flex;

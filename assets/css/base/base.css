@@ -100,10 +100,7 @@ button {
 /*          UTILITY BASE         */
 /* ============================= */
 
-.wrapper {
-  width: var(--wrapper-width);
-  margin: var(--wrapper-margin);
-}
+
 .full-background{
   background-color: var(--clr-primary-light);
   max-width: 100%;
