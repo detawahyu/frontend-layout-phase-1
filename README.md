@@ -8,7 +8,7 @@ This repository is part of a personal frontend training program.
 ## Focus
 - Semantic HTML structure
 - CSS Grid & Flexbox
-- Mobile-first responsive layout
+- Desktop layout
 
 ## Rules
 - No framework
